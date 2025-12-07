@@ -308,9 +308,9 @@ ModuleNotFoundError: No module named 'carla'
 
 ## 👥 Author
 
-[Your Name]
+[Satyadev Gangineni & Nagarjun HR]
 EE267 Final Project
-[Date]
+[12-7-2025]
 
 ---
 
@@ -323,7 +323,7 @@ This project is for educational purposes as part of the EE267 course.
 ## 🙏 Acknowledgments
 
 - CARLA development team for the simulator
-- Course instructors and TAs
+- Course instructors Prof.Hang Qiu and TA Shilpa Mukhopadhyay
 - Pure Pursuit and Stanley algorithm original authors
 
 ---
